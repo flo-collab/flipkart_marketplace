@@ -1,0 +1,4 @@
+*.txt
+data/
+models/
+__pycache__/
